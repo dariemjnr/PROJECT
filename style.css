@@ -1,0 +1,123 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+ color: rgb(255, 255, 255);
+ }
+ 
+ header button{
+     background-color: red;
+     border-radius: 2px;
+     font-size: 20px;}
+ 
+ body{
+     background-color: transparent white;
+ }
+ main{
+ width: 50%; 
+ margin: auto;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100vh;
+ 
+ }
+ 
+ .first-content{
+     background-color: hsl(31, 77%, 52%);
+     padding: 2em;
+     height: 75%;
+     font-family: 'Lexend Deca', sans-serif;
+     font-weight: 400;
+ 
+ }
+ .first-content h3{
+     font-size: 20px;
+     padding: 2em;
+     position: relative;
+     right: 25%;
+     bottom: 30px;
+ 
+ }
+ .first-content p{
+ font-size: 15px;
+ padding-bottom: 10px;
+ }
+ .first-content button{
+     background-color: transparent white ;
+     color:  hsl(31, 77%, 52%);
+     border-radius: 20px;
+     padding: 1em;
+     border: 0px transparent;
+     position: relative;
+     top: 80px;
+     right: 25px;
+     left: 25px;
+ 
+ }
+ .second-content{
+ background-color: hsl(184, 100%, 22%);
+ padding: 2em;
+ height:75%; 
+ font-family: 'Lexend Deca', sans-serif;
+ font-weight: 400;
+ }
+ .second-content h3{
+     font-size: 20px;
+     padding: 2em;
+     position: relative;
+     right: 25%;
+     bottom: 30px;
+ }
+ .second-content p{
+     font-size: 15px;
+     padding-bottom: 10px;
+ }
+ .second-content button{
+     background-color: transparent white ;
+     color: hsl(184, 100%, 22%);
+     border-radius: 20px;
+     padding: 1em;
+     border: 0px transparent;
+     position: relative;
+     top: 80px;
+     right: 25px;
+     left: 25px;
+     
+ 
+     
+ }
+ 
+ .third-content{
+ background-color: hsl(179, 100%, 13%);
+ padding:2em ;
+ height: 75%;
+ font-family: 'Lexend Deca', sans-serif;
+ font-weight: 400;
+ }
+ 
+ .third-content h3{
+     font-size: 20px;
+     padding: 2em;
+     position: relative;
+     right: 25%;
+     bottom: 30px;
+ }
+ .third-content p{
+     font-size: 15px;
+     padding-bottom: 10px;
+ }
+ .third-content button{
+     background-color: transparent white;
+     color: hsl(179, 100%, 13%);
+     border-radius: 20px;
+     padding: 1em;
+     border: 0px transparent;
+     position: relative;
+     top: 80px;
+     right: 25px;
+     left: 25px;
+     
+ }
+ 
+ 
